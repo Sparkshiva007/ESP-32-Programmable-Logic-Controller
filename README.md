@@ -26,7 +26,7 @@ The board uses a two-layer layout with clear routing discipline:
 - 3D renders included for reference.
 
 ## PCB Render
-<img src="images/PCB-render.jpeg" width="400">
+<img src="images/PCB-render.jpeg" width="500">
 
 ## Simulation and Functional Testing
 
