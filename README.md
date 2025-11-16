@@ -25,6 +25,9 @@ The board uses a two-layer layout with clear routing discipline:
 - Mounting holes provided for enclosure or test setup integration.  
 - 3D renders included for reference.
 
+## PCB Render
+![PCB Render](images/WhatsApp-Image-2025-11-16-at-5.59.41-AM.jpeg)
+
 ## Simulation and Functional Testing
 
 The system was validated using **Proteus circut simulator**, using the same circuit implemented on the PCB.  
